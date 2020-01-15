@@ -1,0 +1,55 @@
+body
+{
+  background:  #008ae6 url('../img/geometry2.png');
+  font-family: 'Permanent Marker', cursive;
+
+}
+.menu
+{
+    padding-top: 2em;
+    background-color: rgba(204, 255, 255,0.5);
+}
+.places
+{
+  margin-top: 0.5em;
+  width: 65%;
+  height: 50%;
+  text-align: center;
+}
+#map
+{
+  display: inline-block;
+  margin-top:5em;
+  width: 155%;
+  height: calc(85vh - 50px);
+}
+.dataInput
+{
+  margin-left:2.2em;
+}
+.nomap
+{
+  margin-top: 45vh;
+   font-size: 20px;
+   display: none;
+ }
+ .block
+ {
+   display: block;
+ }
+li,ul :hover
+{
+    background-color: #ffd966
+;
+}
+.message
+{
+  background-color:  #33ffff;
+  font-size: small;
+  display: block;
+  text-align: center;
+  color:#ff6633	;
+  font-family: 'Permanent Marker', cursive;
+
+
+}
